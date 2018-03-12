@@ -1,0 +1,14 @@
+/* import stylesheet */
+@import url("../css/twi_corpora.css");
+
+/* set custom colours */
+:root {
+    --color_bg: #FFEFE7;
+    --color_bg_strong: #EB9168;
+    --color_bg_light: #FFDDC9;
+    --color_text: #000;
+    --color_border: #EB9168;
+    --color_button: #eee;
+    --color_button_border: #ccc;
+    --color_link: #2E2B9C;
+}
