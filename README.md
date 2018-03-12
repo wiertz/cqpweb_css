@@ -6,13 +6,13 @@ This is a simple set of styles for CQPweb, briefly tested on v3.2.31 and with cu
 - *style-main.css* is a version of style-corpus.css, but adjusted for the CQPweb main page.
 
 ## Installation
-Download the files and move to you the cqpweb/css directory on your web server.
+Download .css files and copy to the css subdirectory of cqpweb on your web server (e.g. /var/www/cqpweb/css).
 
 ## Use corpus schemes
 Go to "Corpus settings" and change Stylesheet address to the desired scheme (e.g. ../css/corpus-red.css).
 
 ## Use main page scheme
-Add or modify the following line in cqpweb/lib/config.inc.php:
+Add or modify the following line in /lib/config.inc.php:
 $css_path_for_homepage = 'css/style-main.css';
 
 ## Customize color schemes 
