@@ -19,6 +19,20 @@ $css_path_for_homepage = 'css/style-main.css';
 To add a new corpus color scheme copy one of the corpus-COLOR.css files and adjust the color definition as desired.
 To change the main page color scheme, adjust color values in style-main.css.
 
+## Screenshots
+#### Main page:
+![Main](/screenshots/main.png)
 
+#### Main corpus view:
+![Corpus](/screenshots/blue_corpus.png)
+
+#### Query results (keyword in context):
+![KWIC](/screenshots/blue_kwic.png)
+
+#### Collocation table:
+![Collocations](/screenshots/blue_collocations.png)
+
+#### Yellow scheme example:
+![Collocations](/screenshots/yellow_keywords.png)
 
 – 12.3.2018, Thilo Wiertz
