@@ -3,9 +3,9 @@
 
 /* set custom colours */
 :root {
-    --color_bg: #E3E6F5;
-    --color_bg_strong: #BCBFD6;
-    --color_bg_light: #F7F7FF;
+    --color_bg: #E1E6F5;
+    --color_bg_strong: #BABFD6;
+    --color_bg_light: #F5F7FF;
     --color_text: #444444;
     --color_border: #C6C9E1;
     --color_button: #eee;
