@@ -18,3 +18,7 @@ $css_path_for_homepage = 'css/twi_main.css';
 ## Customize color schemes 
 To add a new corpus color scheme copy one of the twi_scheme_COLOR.css files and adjust the color definition as desired.
 To change the main page color scheme, adjust color values in twi_main.css.
+
+
+
+– 12.3.2018, Thilo Wiertz
