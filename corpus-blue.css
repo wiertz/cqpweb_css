@@ -4,11 +4,11 @@
 /* set custom colours */
 :root {
     --color_bg: #E7ECF7;
-    --color_bg_strong: #7595CB;
+    --color_bg_strong: #80A0D0;
     --color_bg_light: #FFFFFF;
     --color_text: #222222;
     --color_border: #C3C6DD;
     --color_button: #eee;
     --color_button_border: #ccc;
-    --color_link: #1A1CD1;
+    --color_link: #0000A0;
 }
