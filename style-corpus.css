@@ -85,7 +85,7 @@ span.contexthighlight {
 }
 
 span.concord-time-report {
-	color: gray;
+	color: var(--color_bg_light, #FFFFFF);
 	font-size: 10pt;
 	font-weight: normal
 }
