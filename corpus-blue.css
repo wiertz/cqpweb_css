@@ -3,12 +3,12 @@
 
 /* set custom colours */
 :root {
-    --color_bg: #E1E6F5;
-    --color_bg_strong: #BABFD6;
-    --color_bg_light: #F5F7FF;
-    --color_text: #444444;
-    --color_border: #C6C9E1;
+    --color_bg: #E7ECF7;
+    --color_bg_strong: #7595CB;
+    --color_bg_light: #FFFFFF;
+    --color_text: #222222;
+    --color_border: #C3C6DD;
     --color_button: #eee;
     --color_button_border: #ccc;
-    --color_link: #4D4FE5;
+    --color_link: #1A1CD1;
 }
