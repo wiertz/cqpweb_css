@@ -16,7 +16,7 @@ body {
   background: #fff;
   font-family: Verdana;
   font-size: 10pt;
-  color: var(--color_text, #444444);
+  color: var(--color_text);
 }
 
 /* Form and button styles */
@@ -32,33 +32,33 @@ select {
   appearance: none;
   font-family: Verdana;
   font-size: 8pt;
-  color: var(--color_text, #444444);
+  color: var(--color_text);
   background: #fff; 
   padding: 3px;
   border-radius: 3px;
-  border:1px solid var(--color_button_border, #ccc); 
-  border-bottom: 4px solid var(--color_button_border, #ccc);
+  border:1px solid var(--color_button_border); 
+  border-bottom: 4px solid var(--color_button_border);
 }
 
 input {
     font-family: Verdana;
     color: var(--color_text, #444444);
     background:#fff; 
-    border:1px solid var(--color_button_border, #ccc);
+    border:1px solid var(--color_button_border);
     border-radius: 0px;
     padding: 5px;
 }
 
 input[type=submit] {
-    background: var(--color_button, #eee);
+    background: var(--color_button);
 }
 
 input[type=button] {
-    background: var(--color_button, #eee);
+    background: var(--color_button);
 }
 
 input[type=reset] {
-    background: var(--color_button, #eee);
+    background: var(--color_button);
 }
 
 
@@ -107,7 +107,7 @@ span.concord-time-report {
 
 /* table layout */
 table, td, th {
-    background-color: var(--color_bg, #E3E6F5);
+    background-color: var(--color_bg);
     border-collapse: collapse;
     padding: 5px;
     font-family: Verdana;
@@ -144,7 +144,7 @@ th.concordtable {
   border-top: 20px solid #fff;
   font-weight: bold;
   font-size: 115%;
-  background-color: var(--color_bg_strong, #BCBFD6);
+  background-color: var(--color_bg_strong);
   vertical-align:bottom;
 }
 
@@ -152,43 +152,43 @@ td.concordgeneral {
 }
 
 td.concordgrey {
-	background-color: var(--color_bg_light, #F7F7FF);
+	background-color: var(--color_bg_light);
 }
 
 td.before {
-  border-bottom: 1px solid var(--color_border, #C6C9E1);
+  border-bottom: 1px solid var(--color_border);
   text-align: right;
 }
 
 td.after {
-  border-bottom: 1px solid var(--color_border, #C6C9E1);
+  border-bottom: 1px solid var(--color_border);
   text-align: left;
 }
 
 td.node {
-  background-color: var(--color_bg_strong, #BCBFD6);
+  background-color: var(--color_bg_strong);
   text-align: center;
 }
 
 td.text_id {
-	background-color: var(--color_bg_strong, #BCBFD6);
+	background-color: var(--color_bg_strong);
 }
 
 
 /* links */
 a:link {
-  color: var(--color_link, #4D4FE5);
+  color: var(--color_link);
 }
 
 /* menu */
 a.menuItem:link {
-  	color: var(--color_text, #444444);
+  	color: var(--color_text);
 	font-size: 10pt;
 	text-decoration: none;
 }
 
 a.menuItem:visited {
-	color: var(--color_text, #444444);
+	color: var(--color_text);
 }
 
 a.menuItem:hover {
@@ -198,5 +198,5 @@ a.menuItem:hover {
 hr {
   border:0px;
   height:3px;
-  background: var(--color_border, #C6C9E1);
+  background: var(--color_border);
 }
