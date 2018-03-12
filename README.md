@@ -20,8 +20,6 @@ To add a new corpus color scheme copy one of the corpus-COLOR.css files and adju
 To change the main page color scheme, adjust color values in style-main.css.
 
 ## Screenshots
-#### Main page:
-![Main](/screenshots/main.png)
 
 #### Main corpus view:
 ![Corpus](/screenshots/blue_corpus.png)
