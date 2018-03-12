@@ -1,5 +1,5 @@
 # CQPweb CSS Styles
-This is a simple set of styles for CQPweb, briefly tested on v3.2.31 and with current versions of Chrome, Safari and Firefox. It uses global variables to define a color scheme and is thus easily customizable. If you find objectively ugly views or display errors, please create an issues. Note that further customization and refinement, e.g. to further adjust result table display and column alignment would require changes to the main code and is currently not planned.
+This is a simple set of styles for CQPweb, briefly tested on v3.2.31 and with current versions of Chrome, Safari and Firefox. It uses global variables to define a color scheme and is thus easily customizable. If you find objectively ugly views or have suggestions for improvements, please create an issues. Note that further refinements, e.g. on result table display and column alignment, currently cannot be done at the CSS level, but would require changes to the main code.
 
 *twi_corpora.css* contains main CSS definitions for corpus view. 
 *twi_scheme_COLOR.css* provide different color schemes for corpora and import definitions, using twi_corpora.css as basis.
