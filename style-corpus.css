@@ -145,6 +145,10 @@ a:link {
 }
 
 /* menu */
+a.menuItem {
+        white-space: nowrap
+}
+
 a.menuItem:link {
   	color: var(--color_text);
 	font-size: 10pt;
