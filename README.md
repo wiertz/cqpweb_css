@@ -15,6 +15,11 @@ Go to "Corpus settings" and change Stylesheet address to the desired scheme (e.g
 Add or modify the following line in /lib/config.inc.php:
 $css_path_for_homepage = 'css/style-main.css';
 
+## Use schemes for admin control and user page
+Add or modify the following lines in /lib/config.inc.php:
+$css_path_for_adminpage = '../css/corpus-red.css';
+$css_path_for_userpage = '../css/corpus-green.css';
+
 ## Customize color schemes 
 To add a new corpus color scheme copy one of the corpus-COLOR.css files and adjust the color definition as desired.
 To change the main page color scheme, adjust color values in style-main.css.
