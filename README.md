@@ -1,3 +1,5 @@
+** The CSS styles are no longer maintained and incompatible with recent versions of CQPweb **
+
 # CQPweb CSS Styles
 This is a simple set of styles for CQPweb, briefly tested on v3.2.31 and with current versions of Chrome, Safari and Firefox. It has templates for blue, green, yellow and red. Since the CSS files use global variables to define colors, it is very easily customizable. If you find objectively ugly views or have suggestions for improvements, please create an issues. Note that further refinements, e.g. on result table display and text alignment of column content, currently cannot be done at the CSS level, but would require changes to the main code.
 
